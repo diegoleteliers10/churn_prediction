@@ -1,0 +1,33 @@
+# ============================================================================
+# CONFIGURACIÓN DEL PROYECTO - CHURN PREDICTION
+# ============================================================================
+
+project:
+  name: "Churn Prediction - Telecomunicaciones"
+  version: "1.0.0"
+  author: "Tu Nombre"
+  description: "Sistema predictivo para identificar clientes en riesgo de abandono"
+
+data:
+  raw_path: "data/raw/"
+  processed_path: "data/processed/"
+  external_path: "data/external/"
+  
+model:
+  target_column: "Churn"
+  test_size: 0.15
+  validation_size: 0.15
+  random_state: 42
+  
+  # Métricas objetivo
+  target_recall: 0.85
+  target_precision: 0.60
+  target_auc: 0.80
+
+evaluation:
+  cv_folds: 5
+  scoring_metric: "recall"
+  
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
