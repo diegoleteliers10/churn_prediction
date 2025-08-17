@@ -115,9 +115,8 @@ MIT License - ver LICENSE file para detalles
 
 ## 📞 Contacto
 
-**Autor**: [Tu Nombre]
-**Email**: [tu.email@example.com]
-**LinkedIn**: [tu-perfil-linkedin]
+**Autor**: [Diego Letelier]
+**Email**: [dleteliersr@gmail.com]
 
 ---
 *Proyecto desarrollado como parte del portafolio de Data Science*
