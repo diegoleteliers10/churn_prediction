@@ -5,7 +5,7 @@
 project:
   name: "Churn Prediction - Telecomunicaciones"
   version: "1.0.0"
-  author: "Tu Nombre"
+  author: "Diego Letelier"
   description: "Sistema predictivo para identificar clientes en riesgo de abandono"
 
 data:
