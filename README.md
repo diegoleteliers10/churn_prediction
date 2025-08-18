@@ -294,10 +294,8 @@ MIT License - ver LICENSE file para detalles
 
 ## 📞 Contacto
 
-**Autor**: Diego Letelier
-**Proyecto**: Churn Prediction - Telecomunicaciones
-**Versión**: 1.0.0
-**Fecha**: Enero 2024
+**Autor**: [Diego Letelier]
+**Email**: [dleteliersr@gmail.com]
 
 ---
 *Proyecto desarrollado como parte del portafolio de Data Science y Machine Learning en Producción*
