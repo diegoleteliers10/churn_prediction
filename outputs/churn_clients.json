@@ -1,0 +1,9 @@
+{
+  "customer_id": "TEST001",
+  "churn_probability": 0.9103000164031982,
+  "will_churn": true,
+  "risk_level": "High Risk",
+  "confidence": "High",
+  "threshold_used": 0.4,
+  "prediction_timestamp": "2025-08-17T20:32:53.888617"
+}

@@ -1,5 +1,0 @@
-{
-    "python.analysis.extraPaths": ["./src", "./notebooks", "."],
-    "python.analysis.autoImportCompletions": true,
-    "python.analysis.typeCheckingMode": "basic"
-}
